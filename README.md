@@ -1,5 +1,3 @@
-Please refer: [My Project Collection](https://github.com/AswinBalamurugan/Machine_Learning_Projects/blob/main/README.md)
-
 # Objective
 Improve the performance of Neural Networks that model reactions in a CSTR.
 
